@@ -1,4 +1,4 @@
-# Pavement Damage Detection Report
+# Pavement Damage Detection Report (Dataset 1)
 ## PSCI Evaluation
 
 ---
@@ -24,10 +24,10 @@
 
 | **Metric**               | **Ground Truth (%)** | **Model Prediction (%)** |
 |--------------------------|----------------------|--------------------------|
-| **Surface Defects**      | 12.5                 | 11.8                     |
-| **Pavement Defects**     |  8.3                 |  9.1                     |
-| **Structural Distresses**|  5.0                 |  4.7                     |
-| **Level (GT → Pred)**    |  **Level 2**         |     **Level 2**          |
+| **Surface Defects**      | 90.0                 | 0.0                     |
+| **Pavement Defects**     | 10.0                 | 0.0                     |
+| **Structural Distresses**| 90.0                 | 60.0                     |
+| **Level (GT → Pred)**    | **Level 1**          | **Level 2**              |
 
 ---
 
