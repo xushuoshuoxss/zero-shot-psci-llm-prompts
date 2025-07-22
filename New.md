@@ -12,7 +12,7 @@
 
 | Metric                   | Ground Truth (%)     | Model Prediction (%) | Level (GT → Pred)    |
 |--------------------------|----------------------|----------------------|----------------------|
-| Surface Defects          | `<GT_surface_defects>` | `<Pred_surface_defects>` | `<GT_Level>` → `<Pred_Level>` |
+| Surface Defects          | `10` | `<Pred_surface_defects>` | `<GT_Level>` → `<Pred_Level>` |
 | Pavement Defects         | `<GT_pavement_defects>` | `<Pred_pavement_defects>` |                      |
 | Structural Distresses    | `<GT_structural_distresses>` | `<Pred_structural_distresses>` |                      |
 
