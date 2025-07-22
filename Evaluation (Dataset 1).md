@@ -8,12 +8,12 @@
 <!-- 固定宽度 600px，可根据需要调整 -->
 <img src="Dataset_1/1.jpg" alt="Road Segment 1" width="600px"/>
 
-| **Metric**               | **Ground Truth (%)** | **Model Prediction (%)** |
-|--------------------------|----------------------|--------------------------|
-| **Surface Defects**      | 50.0                 | 50.0                     |
-| **Pavement Defects**     | 50.0                 | 50.0                     |
-| **Structural Distresses**| 80.0                 | 80.0                     |
-| **Level (GT → Pred)**    | **Level 1**          | **Level 1**              |
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
 
 ---
 
