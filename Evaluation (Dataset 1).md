@@ -213,3 +213,380 @@
 
 ---
 
+### Road Segment 16
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/16.png" alt="Road Segment 16" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 17
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/17.jpg" alt="Road Segment 17" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 18
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/18.png" alt="Road Segment 18" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 19
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/19.jpg" alt="Road Segment 19" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 20
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/20.png" alt="Road Segment 20" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 21
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/21.png" alt="Road Segment 21" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 22
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/22.png" alt="Road Segment 22" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 23
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/23.png" alt="Road Segment 23" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 24
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/24.png" alt="Road Segment 24" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 25
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/25.png" alt="Road Segment 25" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 26
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/26.png" alt="Road Segment 26" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 27
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/27.png" alt="Road Segment 27" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 28
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/28.png" alt="Road Segment 28" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 29
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/29.png" alt="Road Segment 29" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 30
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/30.png" alt="Road Segment 30" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 31
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/31.png" alt="Road Segment 31" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 32
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/32.png" alt="Road Segment 32" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 33
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/33.png" alt="Road Segment 33" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 34
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/34.png" alt="Road Segment 34" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 35
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/35.png" alt="Road Segment 35" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 36
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/36.png" alt="Road Segment 36" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 37
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/37.jpg" alt="Road Segment 37" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 38
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/38.png" alt="Road Segment 38" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 39
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/39.png" alt="Road Segment 39" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 40
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/40.png" alt="Road Segment 40" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 41
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/41.png" alt="Road Segment 41" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
+
+### Road Segment 42
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/42.png" alt="Road Segment 42" width="600px"/>
+
+| **Metric**                   | **Ground Truth**     | **Model Prediction** |
+|------------------------------|----------------------|----------------------|
+| **Surface Defects (%)**      | 50.0                 | 50.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
+| **Structural Distresses (%)**| 80.0                 | 80.0                 |
+| **Level (%)**                | **Level 1**          | **Level 1**          |
+
+---
