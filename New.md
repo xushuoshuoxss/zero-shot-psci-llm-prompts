@@ -1,44 +1,44 @@
-# 道路损坏检测报告
-
- 本报告展示了各道路图片的真值（ground truth）和模型预测结果，包括损坏描述以及损坏等级判定。
+# Pavement Damage Detection Report
 
 ---
 
-## 目录
+## Sample Entry
 
-1. [样例条目格式说明](#样例条目)
-2. [道路图片列表](#道路图片列表)
+### Road Segment 1
+
+<!-- 固定宽度 600px，可根据需要调整 -->
+<img src="Dataset_1/1.jpg" alt="Road Segment 1" width="600px"/>
+
+| Metric                   | Ground Truth (%)     | Model Prediction (%) | Level (GT → Pred)    |
+|--------------------------|----------------------|----------------------|----------------------|
+| Surface Defects          | `<GT_surface_defects>` | `<Pred_surface_defects>` | `<GT_Level>` → `<Pred_Level>` |
+| Pavement Defects         | `<GT_pavement_defects>` | `<Pred_pavement_defects>` |                      |
+| Structural Distresses    | `<GT_structural_distresses>` | `<Pred_structural_distresses>` |                      |
 
 ---
 
-## 样例条目
+## Additional Entries
 
-这样的内容，只会原样显示，不会渲染。你需要把前后的 ```markdown 和 ``` 都删掉，让它变成普通的 Markdown：
+### Road Segment 2
 
-```md
-### 道路段 1
+<img src="Dataset_2/2.jpg" alt="Road Segment 2" width="600px"/>
 
-![道路段 1 原图] (Dataset_1/1.jpg)
+| Metric                   | Ground Truth (%)     | Model Prediction (%) | Level (GT → Pred)    |
+|--------------------------|----------------------|----------------------|----------------------|
+| Surface Defects          | `<GT_surface_defects>` | `<Pred_surface_defects>` | `<GT_Level>` → `<Pred_Level>` |
+| Pavement Defects         | `<GT_pavement_defects>` | `<Pred_pavement_defects>` |                      |
+| Structural Distresses    | `<GT_structural_distresses>` | `<Pred_structural_distresses>` |                      |
 
-| 项目       | 内容                              |
-| ---------- | --------------------------------- |
-| **真值描述** | 裂缝宽度约 2mm，呈网状分布         |
-| **真值等级** | Level 2                           |
-| **模型描述** | 预测裂缝宽度 1.8mm，主要集中在中央 |
-| **模型等级** | Level 2                           |
-| **备注**     | 模型对小裂缝不太敏感              |
+---
 
-
-
-```markdown
-### 1. 道路段编号名称
-
-![道路段 1 原图](Dataset_1/1.jpg)
-
- 项目                内容                                
----------------------------------------------------------
- 真值描述        裂缝宽度约 2mm，呈网状分布             
- 真值等级        Level 2                             
- 模型描述        预测裂缝宽度 1.8mm，主要集中在中央区域 
- 模型等级        Level 2                             
- 备注            模型较好地捕捉了主要裂缝，但对边缘小裂缝不敏感。 
+<!--  
+使用说明：
+1. 将所有图片放在 Dataset_x/ 文件夹下，并确保路径正确（区分大小写）。
+2. 将 `<GT_…>`、`<Pred_…>` 和 `<GT_Level>`、`<Pred_Level>` 替换为你的真实数值，例如：
+   - GT_surface_defects: 12.5
+   - Pred_surface_defects: 11.8
+   - GT_Level: Level 2
+   - Pred_Level: Level 2
+3. 调整 `<img>` 的 width 值以控制显示大小。  
+4. 新增更多 Road Segment 时，复制 “Additional Entries” 段落即可。
+-->  
