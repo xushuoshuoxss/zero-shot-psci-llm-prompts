@@ -10,10 +10,10 @@
 
 | **Metric**               | **Ground Truth (%)** | **Model Prediction (%)** |
 |--------------------------|----------------------|--------------------------|
-| **Surface Defects**      | 12.5                 | 11.8                     |
-| **Pavement Defects**     |  8.3                 |  9.1                     |
-| **Structural Distresses**|  5.0                 |  4.7                     |
-| **Level (GT → Pred)**    |  **Level 2**         |     **Level 2**          |
+| **Surface Defects**      | 50.0                 | 50.0                     |
+| **Pavement Defects**     | 50.0                 | 50.0                     |
+| **Structural Distresses**| 80.0                 | 80.0                     |
+| **Level (GT → Pred)**    | **Level 1**          | **Level 1**              |
 
 ---
 
