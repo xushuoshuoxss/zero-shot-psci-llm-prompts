@@ -24,10 +24,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 90.0                 | 0.0                 |
+| **Pavement Defects (%)**     | 10.0                 | 0.0                 |
+| **Structural Distresses (%)**| 90.0                 | 60.0                 |
+| **Level (%)**                | **Level 1**          | **Level 2**          |
 
 ---
 
@@ -38,10 +38,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 10.0                 | 0.0                 |
+| **Pavement Defects (%)**     | 30.0                 | 0.0                 |
+| **Structural Distresses (%)**| 60.0                 | 60.0                 |
+| **Level (%)**                | **Level 2**          | **Level 2**          |
 
 ---
 
@@ -52,10 +52,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 10.0                 | 0.0                 |
+| **Pavement Defects (%)**     | 30.0                 | 10.0                 |
+| **Structural Distresses (%)**| 60.0                 | 40.0                 |
+| **Level (%)**                | **Level 2**          | **Level 4**          |
 
 ---
 
@@ -66,10 +66,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 30.0                 |
+| **Pavement Defects (%)**     | 20.0                 | 10.0                 |
+| **Structural Distresses (%)**| 40.0                 | 10.0                 |
+| **Level (%)**                | **Level 3**          | **Level 4**          |
 
 ---
 
@@ -80,10 +80,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 10.0                 | 0.0                 |
+| **Pavement Defects (%)**     | 30.0                 | 20.0                 |
+| **Structural Distresses (%)**| 30.0                 | 10.0                 |
+| **Level (%)**                | **Level 3**          | **Level 4**          |
 
 ---
 
@@ -94,10 +94,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 50.0                 | 15.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 10.0                 |
+| **Structural Distresses (%)**| 80.0                 | 0.0                 |
+| **Level (%)**                | **Level 4**          | **Level 6**          |
 
 ---
 
@@ -108,10 +108,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 10.0                 | 15.0                 |
+| **Pavement Defects (%)**     | 10.0                 | 5.0                 |
+| **Structural Distresses (%)**| 10.0                 | 0.0                 |
+| **Level (%)**                | **Level 4**          | **Level 6**          |
 
 ---
 
@@ -122,10 +122,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 20.0                 | 20.0                 |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 5**          | **Level 5**          |
 
 ---
 
@@ -136,10 +136,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 20.0                 | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 20.0                 |
+| **Level (%)**                | **Level 5**          | **Level 6**          |
 
 ---
 
@@ -150,10 +150,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 10.0                 | 10.0                 |
+| **Structural Distresses (%)**| 10.0                 | 0.0                  |
+| **Level (%)**                | **Level 6**          | **Level 6**          |
 
 ---
 
@@ -164,10 +164,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 20.0                 |
+| **Pavement Defects (%)**     | 15.0                 | 0.0                  |
+| **Structural Distresses (%)**| 5.0                  | 0.0                  |
+| **Level (%)**                | **Level 6**          | **Level 8**          |
 
 ---
 
@@ -178,10 +178,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 30.0                 | 30.0                 |
+| **Pavement Defects (%)**     | 10.0                 | 20.0                 |
+| **Structural Distresses (%)**| 0.0                  | 10.0                 |
+| **Level (%)**                | **Level 7**          | **Level 5**          |
 
 ---
 
@@ -192,10 +192,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 40.0                 | 40.0                 |
+| **Pavement Defects (%)**     | 5.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 7**          | **Level 7**          |
 
 ---
 
@@ -206,10 +206,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 10.0                 | 0.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 8**          | **Level 10**         |
 
 ---
 
@@ -220,10 +220,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 25.0                 | 20.0                 |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 8**          | **Level 8**          |
 
 ---
 
@@ -234,10 +234,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 5.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 9**          | **Level 10**         |
 
 ---
 
@@ -248,10 +248,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 5.0                  | 5.0                  |
+| **Pavement Defects (%)**     | 5.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 9**          | **Level 9**          |
 
 ---
 
@@ -262,10 +262,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 10**         | **Level 10**         |
 
 ---
 
@@ -276,10 +276,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 10**         | **Level 10**         |
 
 ---
 
@@ -304,10 +304,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 50.0                 | 40.0                 |
+| **Level (%)**                | **Level 2**          | **Level 3**          |
 
 ---
 
@@ -318,10 +318,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 5.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 50.0                 | 0.0                  |
+| **Structural Distresses (%)**| 40.0                 | 20.0                 |
+| **Level (%)**                | **Level 3**          | **Level 4**          |
 
 ---
 
@@ -332,10 +332,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                 |
+| **Pavement Defects (%)**     | 10.0                 | 10.0                 |
+| **Structural Distresses (%)**| 5.0                  | 5.0                 |
+| **Level (%)**                | **Level 4**          | **Level 5**          |
 
 ---
 
@@ -346,10 +346,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 30.0                 | 5.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 20.0                 | 0.0                  |
+| **Level (%)**                | **Level 5**          | **Level 9**          |
 
 ---
 
@@ -360,10 +360,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 30.0                 | 20.0                 |
+| **Pavement Defects (%)**     | 5.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 6**          | **Level 8**          |
 
 ---
 
@@ -374,10 +374,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 30.0                 | 5.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 7**          | **Level 9**          |
 
 ---
 
@@ -388,10 +388,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 5.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 8**          | **Level 9**          |
 
 ---
 
@@ -402,10 +402,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 10.0                 | 5.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 9**          | **Level 9**          |
 
 ---
 
@@ -416,10 +416,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 15.0                 |
+| **Pavement Defects (%)**     | 20.0                 | 10.0                 |
+| **Structural Distresses (%)**| 25.0                 | 5.0                  |
+| **Level (%)**                | **Level 3**          | **Level 5**          |
 
 ---
 
@@ -430,10 +430,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 30.0                 |
+| **Pavement Defects (%)**     | 10.0                 | 10.0                 |
+| **Structural Distresses (%)**| 15.0                 | 5.0                  |
+| **Level (%)**                | **Level 4**          | **Level 5**          |
 
 ---
 
@@ -444,10 +444,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 15.0                 |
+| **Pavement Defects (%)**     | 20.0                 | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 5**          | **Level 6**          |
 
 ---
 
@@ -458,10 +458,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 20.0                 |
+| **Pavement Defects (%)**     | 10.0                 | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 6**          | **Level 8**          |
 
 ---
 
@@ -472,10 +472,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 5.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 7**          | **Level 9**          |
 
 ---
 
@@ -486,10 +486,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 5.0                  | 5.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 9**          | **Level 9**          |
 
 ---
 
@@ -500,10 +500,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 10**         | **Level 10**         |
 
 ---
 
@@ -514,10 +514,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 0.0                  | 0.0                  |
+| **Pavement Defects (%)**     | 20.0                 | 0.0                  |
+| **Structural Distresses (%)**| 80.0                 | 60.0                 |
+| **Level (%)**                | **Level 1**          | **Level 2**          |
 
 ---
 
@@ -528,10 +528,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 0.0                  |
+| **Pavement Defects (%)**     | 10.0                 | 10.0                 |
+| **Structural Distresses (%)**| 25.0                 | 15.0                 |
+| **Level (%)**                | **Level 3**          | **Level 5**          |
 
 ---
 
@@ -542,10 +542,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 20.0                 | 30.0                 |
+| **Pavement Defects (%)**     | 15.0                 | 0.0                  |
+| **Structural Distresses (%)**| 5.0                  | 0.0                  |
+| **Level (%)**                | **Level 4**          | **Level 5**          |
 
 ---
 
@@ -556,10 +556,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 30.0                 | 40.0                 |
+| **Pavement Defects (%)**     | 15.0                 | 0.0                 |
+| **Structural Distresses (%)**| 0.0                  | 10.0                 |
+| **Level (%)**                | **Level 6**          | **Level 4**          |
 
 ---
 
@@ -570,10 +570,10 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 40.0                 | 40.0                 |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 7**          | **Level 7**          |
 
 ---
 
@@ -584,9 +584,9 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 50.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 50.0                 |
-| **Structural Distresses (%)**| 80.0                 | 80.0                 |
-| **Level (%)**                | **Level 1**          | **Level 1**          |
+| **Surface Defects (%)**      | 50.0                 | 20.0                 |
+| **Pavement Defects (%)**     | 0.0                  | 0.0                  |
+| **Structural Distresses (%)**| 0.0                  | 0.0                  |
+| **Level (%)**                | **Level 7**          | **Level 6**          |
 
 ---
