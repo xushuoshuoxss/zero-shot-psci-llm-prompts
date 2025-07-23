@@ -4,11 +4,11 @@
 
 ---
 
-### Road Segment 1
+### Road Segment 43
 
 <!-- 固定宽度 600px，可根据需要调整 -->
 
-<img src="Dataset_2/43.png" alt="Road Segment 1" width="600px"/>
+<img src="Dataset_2/43.png" alt="Road Segment 43" width="600px"/>
 
 | **Surface Defects (%)** | **Pavement Defects (%)** | **Structural Distresses (%)** | **Level** |
 | :---------------------: | :----------------------: | :---------------------------: | :-------: |
@@ -16,11 +16,11 @@
 
 ---
 
-### Road Segment 2
+### Road Segment 44
 
 <!-- 固定宽度 600px，可根据需要调整 -->
 
-<img src="Dataset_1/2.png" alt="Road Segment 2" width="600px"/>
+<img src="Dataset_2/44.png" alt="Road Segment 44" width="600px"/>
 
 | **Surface Defects (%)** | **Pavement Defects (%)** | **Structural Distresses (%)** | **Level** |
 | :---------------------: | :----------------------: | :---------------------------: | :-------: |
