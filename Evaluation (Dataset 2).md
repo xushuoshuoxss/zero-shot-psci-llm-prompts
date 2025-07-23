@@ -8,7 +8,7 @@
 
 <!-- 固定宽度 600px，可根据需要调整 -->
 
-<img src="Dataset_1/1.jpg" alt="Road Segment 1" width="600px"/>
+<img src="Dataset_2/43.png" alt="Road Segment 1" width="600px"/>
 
 | **Surface Defects (%)** | **Pavement Defects (%)** | **Structural Distresses (%)** | **Level** |
 | :---------------------: | :----------------------: | :---------------------------: | :-------: |
