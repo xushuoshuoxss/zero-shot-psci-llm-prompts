@@ -15,7 +15,7 @@
 | **Structural Distresses (%)**| 80.0                 | 80.0                 |
 | **Level (%)**                | **Level 1**          | **Level 1**          |
 
-#### Explanation from model: 
+#### Explanation from Model: 
 ##### The road shows extensive structural distress with large areas of rutting and edge breakup. Approximately 40-50% of the surface is affected by these issues, making the road significantly damaged and difficult to drive on.  
 ---
 
@@ -31,6 +31,8 @@
 | **Structural Distresses (%)**| 90.0                 | 60.0                 |
 | **Level (%)**                | **Level 1**          | **Level 2**          |
 
+#### Explanation from Model: 
+##### The road shows severe structural distresses with over 50% of the surface affected. There are large areas of road disintegration, potholes, and surface material loss, indicating a need for full-depth reconstruction.  
 ---
 
 ### Road Segment 3
@@ -40,11 +42,13 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 10.0                 | 0.0                 |
+| **Surface Defects (%)**      | 10.0                 | 30.0                 |
 | **Pavement Defects (%)**     | 30.0                 | 0.0                 |
 | **Structural Distresses (%)**| 60.0                 | 60.0                 |
 | **Level (%)**                | **Level 2**          | **Level 2**          |
 
+#### Explanation from Model: 
+##### The road shows extensive structural distress with large areas of potholes and surface disintegration, covering 25-50% of the surface. This includes widespread potholes and significant surface damage.
 ---
 
 ### Road Segment 4
@@ -54,12 +58,15 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 10.0                 | 0.0                 |
-| **Pavement Defects (%)**     | 30.0                 | 10.0                 |
-| **Structural Distresses (%)**| 60.0                 | 40.0                 |
+| **Surface Defects (%)**      | 10.0                 | 10.0                 |
+| **Pavement Defects (%)**     | 30.0                 | 20.0                 |
+| **Structural Distresses (%)**| 60.0                 | 30.0                 |
 | **Level (%)**                | **Level 2**          | **Level 4**          |
 
+#### Explanation from Model: 
+##### The road shows significant structural distresses, including visible potholes and surface disintegration. Estimated anomaly proportions: surface defects (10%), pavement defects (20%), structural distresses (30%).  
 ---
+
 
 ### Road Segment 5
 
@@ -73,6 +80,8 @@
 | **Structural Distresses (%)**| 40.0                 | 10.0                 |
 | **Level (%)**                | **Level 3**          | **Level 4**          |
 
+#### Explanation from Model: 
+##### The road shows structural distresses such as alligator cracking and edge breakup over approximately 30% of the surface. There are visible potholes and surface distortions, indicating the need for structural overlay. 
 ---
 
 ### Road Segment 6
@@ -87,6 +96,8 @@
 | **Structural Distresses (%)**| 30.0                 | 10.0                 |
 | **Level (%)**                | **Level 3**          | **Level 4**          |
 
+#### Explanation from Model: 
+##### The road shows structural distresses such as alligator cracking and potholes, covering approximately 5-25% of the surface. There are visible signs of rutting and cracking, indicating the need for structural overlay.
 ---
 
 ### Road Segment 7
@@ -96,11 +107,13 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 15.0                 |
-| **Pavement Defects (%)**     | 50.0                 | 10.0                 |
-| **Structural Distresses (%)**| 80.0                 | 0.0                 |
+| **Surface Defects (%)**      | 50.0                 | 10.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 20.0                 |
+| **Structural Distresses (%)**| 80.0                 | 10.0                 |
 | **Level (%)**                | **Level 4**          | **Level 6**          |
 
+#### Explanation from Model: 
+##### The road shows moderate presence of pavement defects with visible cracking affecting less than 20% of the surface. There are no significant structural distresses like rutting or edge cracking. Estimated anomaly proportions: surface defects 10%, pavement defects 20%, structural distresses 10%.
 ---
 
 ### Road Segment 8
@@ -115,6 +128,8 @@
 | **Structural Distresses (%)**| 10.0                 | 0.0                 |
 | **Level (%)**                | **Level 4**          | **Level 6**          |
 
+#### Explanation from Model: 
+##### The road shows minor surface defects with small areas of ravelling or bleeding affecting less than 15% of the surface. There are no significant structural distresses like cracking, rutting, or edge breakup.
 ---
 
 ### Road Segment 9
@@ -129,6 +144,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 5**          | **Level 5**          |
 
+#### Explanation from Model: 
+##### The road surface shows minor surface defects with very small areas of ravelling or bleeding affecting less than 20% of the surface. No significant structural damage or major cracks are visible.
 ---
 
 ### Road Segment 10
@@ -139,10 +156,12 @@
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
 | **Surface Defects (%)**      | 0.0                  | 0.0                  |
-| **Pavement Defects (%)**     | 20.0                 | 0.0                  |
-| **Structural Distresses (%)**| 0.0                  | 20.0                 |
+| **Pavement Defects (%)**     | 20.0                 | 10.0                 |
+| **Structural Distresses (%)**| 0.0                  | 10.0                 |
 | **Level (%)**                | **Level 5**          | **Level 6**          |
 
+#### Explanation from Model: 
+##### The road shows moderate surface defects with patching and some surface distortion. Estimated anomaly proportions: surface defects 0%, pavement defects 10%, structural distresses 10%. 
 ---
 
 ### Road Segment 11
@@ -154,9 +173,11 @@
 |------------------------------|----------------------|----------------------|
 | **Surface Defects (%)**      | 0.0                  | 0.0                  |
 | **Pavement Defects (%)**     | 10.0                 | 10.0                 |
-| **Structural Distresses (%)**| 10.0                 | 0.0                  |
+| **Structural Distresses (%)**| 10.0                 | 10.0                 |
 | **Level (%)**                | **Level 6**          | **Level 6**          |
 
+#### Explanation from Model: 
+##### The road shows minor surface defects with small areas of patching. Estimated anomaly proportions: surface defects <10%, pavement defects 10%, structural distresses 10%. 
 ---
 
 ### Road Segment 12
@@ -171,6 +192,8 @@
 | **Structural Distresses (%)**| 5.0                  | 0.0                  |
 | **Level (%)**                | **Level 6**          | **Level 8**          |
 
+#### Explanation from Model: 
+##### The road shows minor surface defects with small areas of ravelling or bleeding affecting less than 20% of the surface. No significant structural damage or major cracks are visible. 
 ---
 
 ### Road Segment 13
@@ -185,6 +208,8 @@
 | **Structural Distresses (%)**| 0.0                  | 10.0                 |
 | **Level (%)**                | **Level 7**          | **Level 5**          |
 
+#### Explanation from Model: 
+##### The road shows significant pavement defects with frequent cracking and surface distortions affecting more than 20% of the surface. There are some localized structural distresses such as minor rutting and edge breakup. 
 ---
 
 ### Road Segment 14
@@ -199,6 +224,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 7**          | **Level 7**          |
 
+#### Explanation from Model: 
+##### The road shows moderate surface defects with visible ravelling affecting a significant portion of the surface. There are also some minor longitudinal cracks and surface distortions. Estimated anomaly proportions: surface defects ~40%, pavement defects 0%, structural distresses 0%.
 ---
 
 ### Road Segment 15
@@ -213,6 +240,10 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 8**          | **Level 10**         |
 
+#### Explanation from Model: 
+##### The road surface shows minor surface defects with very small areas of ravelling or bleeding affecting less than 2% of the surface. There are no significant structural distresses like cracking, rutting, or edge breakup.
+---
+
 ---
 
 ### Road Segment 16
@@ -222,11 +253,13 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 25.0                 | 20.0                 |
+| **Surface Defects (%)**      | 25.0                 | 10.0                 |
 | **Pavement Defects (%)**     | 0.0                  | 0.0                  |
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
-| **Level (%)**                | **Level 8**          | **Level 8**          |
+| **Level (%)**                | **Level 8**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road shows minor surface defects with small areas of ravelling affecting less than 10% of the surface. No significant structural damage or major cracks are visible.
 ---
 
 ### Road Segment 17
@@ -241,6 +274,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 9**          | **Level 10**         |
 
+#### Explanation from Model: 
+##### The road surface appears smooth and even with no visible defects such as cracks, potholes, ravelling, or surface distortions. The condition aligns with a newly constructed or recently overlaid road, indicating a perfect condition with no anomalies present.
 ---
 
 ### Road Segment 18
@@ -255,6 +290,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 9**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road shows minor surface defects with very small areas of ravelling or bleeding affecting less than 5% of the surface. No significant structural damage or major cracks are visible.
 ---
 
 ### Road Segment 19
@@ -269,6 +306,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 10**         | **Level 10**         |
 
+#### Explanation from Model: 
+##### The road surface appears smooth and even with no visible defects such as cracks, ravelling, bleeding, or structural distresses. Estimated anomaly proportions: Surface defects 0%, Pavement defects 0%, Structural distresses 0%.
 ---
 
 ### Road Segment 20
@@ -283,6 +322,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 10**         | **Level 10**         |
 
+#### Explanation from Model: 
+##### The road surface appears to be in perfect condition with no visible defects. There are no signs of surface defects, pavement defects, or structural distresses. The surface is smooth and even, indicating a newly constructed or recently overlaid road.
 ---
 
 ### Road Segment 21
@@ -297,6 +338,8 @@
 | **Structural Distresses (%)**| 80.0                 | 80.0                 |
 | **Level (%)**                | **Level 1**          | **Level 1**          |
 
+#### Explanation from Model: 
+##### The road shows severe structural distresses with over 50% of the surface affected. There are large potholes, significant surface disintegration, and visible rutting. The road is severely deteriorated and in need of full-depth reconstruction.
 ---
 
 ### Road Segment 22
@@ -311,7 +354,10 @@
 | **Structural Distresses (%)**| 50.0                 | 40.0                 |
 | **Level (%)**                | **Level 2**          | **Level 3**          |
 
+#### Explanation from Model: 
+##### The road shows extensive structural distress with large areas of surface disintegration and rough texture. Estimated anomaly proportions: surface defects (ravelling) 0%, structural distresses (road disintegration) 40%.
 ---
+
 
 ### Road Segment 23
 
@@ -325,6 +371,8 @@
 | **Structural Distresses (%)**| 40.0                 | 20.0                 |
 | **Level (%)**                | **Level 3**          | **Level 4**          |
 
+#### Explanation from Model: 
+##### The road shows structural distresses such as alligator cracking and surface distortion over approximately 10-20% of the surface. There are visible signs of rutting and edge breakup, indicating the need for structural overlay.
 ---
 
 ### Road Segment 24
@@ -339,6 +387,8 @@
 | **Structural Distresses (%)**| 5.0                  | 5.0                 |
 | **Level (%)**                | **Level 4**          | **Level 5**          |
 
+#### Explanation from Model: 
+##### The road shows moderate surface defects with some cracking and surface distortion. Estimated anomalies: surface defects 0%, pavement defects ~10%, structural distresses ~5%.
 ---
 
 ### Road Segment 25
@@ -353,6 +403,8 @@
 | **Structural Distresses (%)**| 20.0                 | 0.0                  |
 | **Level (%)**                | **Level 5**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road shows minor surface defects with very small areas of ravelling or bleeding affecting less than 10% of the surface. No significant structural damage or major cracks are visible.
 ---
 
 ### Road Segment 26
@@ -367,6 +419,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 6**          | **Level 8**          |
 
+#### Explanation from Model: 
+##### The road shows moderate surface defects with ravelling affecting approximately 10-30% of the surface. There are no significant structural damages or major cracks visible.
 ---
 
 ### Road Segment 27
@@ -381,7 +435,10 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 7**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road surface shows minor surface defects with very small areas of ravelling or bleeding, affecting less than 5% of the surface. There are no significant structural distresses or cracking visible.
 ---
+
 
 ### Road Segment 28
 
@@ -395,6 +452,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 8**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road surface shows minor surface defects with very small areas of ravelling or bleeding, affecting less than 5% of the surface. There are no significant structural distresses or major cracks visible.
 ---
 
 ### Road Segment 29
@@ -409,6 +468,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 9**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road surface shows minor surface defects with very small areas of ravelling, affecting less than 5% of the surface. No significant structural damage or major cracks are visible.
 ---
 
 ### Road Segment 30
@@ -418,11 +479,13 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 0.0                  | 15.0                 |
-| **Pavement Defects (%)**     | 20.0                 | 10.0                 |
-| **Structural Distresses (%)**| 25.0                 | 5.0                  |
+| **Surface Defects (%)**      | 0.0                  | 10.0                 |
+| **Pavement Defects (%)**     | 20.0                 | 30.0                 |
+| **Structural Distresses (%)**| 25.0                 | 10.0                  |
 | **Level (%)**                | **Level 3**          | **Level 5**          |
 
+#### Explanation from Model: 
+##### The road shows significant pavement defects with frequent cracking and some surface distortion. Estimated anomaly proportions: surface defects (10%), pavement defects (30%), structural distresses (10%).
 ---
 
 ### Road Segment 31
@@ -437,6 +500,8 @@
 | **Structural Distresses (%)**| 15.0                 | 5.0                  |
 | **Level (%)**                | **Level 4**          | **Level 5**          |
 
+#### Explanation from Model: 
+##### The road shows significant surface defects with visible ravelling and patching. There are also signs of pavement defects such as cracking, and some structural distresses like edge breakup. Estimated anomaly proportions: surface defects 30%, pavement defects 10%, structural distresses 5%.
 ---
 
 ### Road Segment 32
@@ -446,11 +511,13 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 20.0                 | 15.0                 |
-| **Pavement Defects (%)**     | 20.0                 | 0.0                  |
+| **Surface Defects (%)**      | 20.0                 | 40.0                 |
+| **Pavement Defects (%)**     | 20.0                 | 10.0                  |
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 5**          | **Level 6**          |
 
+#### Explanation from Model: 
+##### The road shows moderate surface defects with visible ravelling affecting more than 30% of the surface. There are also minor longitudinal and transverse cracks present, but no significant structural distresses like rutting or alligator cracking. Estimated anomaly proportions: surface defects 40%, pavement defects 10%, structural distresses 0%.
 ---
 
 ### Road Segment 33
@@ -465,6 +532,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 6**          | **Level 8**          |
 
+#### Explanation from Model: 
+##### The road shows moderate surface defects with ravelling affecting approximately 10-30% of the surface. There are no significant structural damages or major cracks visible.
 ---
 
 ### Road Segment 34
@@ -479,6 +548,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 7**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road shows minor surface defects with very small areas of ravelling affecting less than 10% of the surface. No significant structural damage or major cracks are visible.
 ---
 
 ### Road Segment 35
@@ -493,6 +564,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 9**          | **Level 9**          |
 
+#### Explanation from Model: 
+##### The road surface shows minor surface defects with very small areas of ravelling or bleeding affecting less than 10% of the surface. There are no significant structural distresses or major cracks visible.
 ---
 
 ### Road Segment 36
@@ -507,6 +580,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 10**         | **Level 10**         |
 
+#### Explanation from Model: 
+##### The road surface appears to be in perfect condition with no visible defects. There are no signs of surface defects, pavement defects, or structural distresses. The surface is smooth and even, indicating a newly constructed or recently overlaid road.
 ---
 
 ### Road Segment 37
@@ -521,6 +596,8 @@
 | **Structural Distresses (%)**| 80.0                 | 60.0                 |
 | **Level (%)**                | **Level 1**          | **Level 2**          |
 
+#### Explanation from Model: 
+##### The road shows extensive structural distress with large areas of alligator cracking and potholes covering 60% of the surface. There are visible signs of edge breakup and surface disintegration.
 ---
 
 ### Road Segment 38
@@ -530,11 +607,13 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 20.0                 | 0.0                  |
-| **Pavement Defects (%)**     | 10.0                 | 10.0                 |
-| **Structural Distresses (%)**| 25.0                 | 15.0                 |
+| **Surface Defects (%)**      | 20.0                 | 10.0                  |
+| **Pavement Defects (%)**     | 10.0                 | 20.0                 |
+| **Structural Distresses (%)**| 25.0                 | 10.0                 |
 | **Level (%)**                | **Level 3**          | **Level 5**          |
 
+#### Explanation from Model: 
+##### The road shows significant pavement defects with visible cracking and some surface distortion. Estimated anomaly proportions: surface defects (10%), pavement defects (20%), structural distresses (10%).
 ---
 
 ### Road Segment 39
@@ -549,6 +628,8 @@
 | **Structural Distresses (%)**| 5.0                  | 0.0                  |
 | **Level (%)**                | **Level 4**          | **Level 5**          |
 
+#### Explanation from Model: 
+##### The road shows significant pavement defects with visible cracking and surface distortion affecting more than 20% of the surface. There are also signs of minor structural distresses such as edge breakup.
 ---
 
 ### Road Segment 40
@@ -563,6 +644,8 @@
 | **Structural Distresses (%)**| 0.0                  | 10.0                 |
 | **Level (%)**                | **Level 6**          | **Level 4**          |
 
+#### Explanation from Model: 
+##### The road shows significant structural distresses, including edge breakup and surface disintegration, affecting approximately 40% of the surface. There are visible signs of ravelling and patching, indicating the need for structural overlay.
 ---
 
 ### Road Segment 41
@@ -577,6 +660,8 @@
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
 | **Level (%)**                | **Level 7**          | **Level 7**          |
 
+#### Explanation from Model: 
+##### The road shows extensive surface defects with more than 40% of the surface exhibiting ravelling. There are no significant structural distresses like major cracks or rutting.
 ---
 
 ### Road Segment 42
@@ -586,9 +671,11 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 50.0                 | 20.0                 |
+| **Surface Defects (%)**      | 50.0                 | 30.0                 |
 | **Pavement Defects (%)**     | 0.0                  | 0.0                  |
 | **Structural Distresses (%)**| 0.0                  | 0.0                  |
-| **Level (%)**                | **Level 7**          | **Level 6**          |
+| **Level (%)**                | **Level 7**          | **Level 7**          |
 
+#### Explanation from Model: 
+##### The road shows extensive surface defects with more than 30% of the surface affected by ravelling. There are no significant structural distresses like major cracks or rutting.
 ---
