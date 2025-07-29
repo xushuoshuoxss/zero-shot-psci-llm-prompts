@@ -15,6 +15,7 @@
 | **Structural Distresses (%)**| 80.0                 | 80.0                 |
 | **Level (%)**                | **Level 1**          | **Level 1**          |
 
+**Details:** Surface defects about 50%, pavement cracks about 50%, structural distresses about 80%.  
 ---
 
 ### Road Segment 2
