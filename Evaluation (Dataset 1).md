@@ -16,7 +16,7 @@
 | **Level (%)**                | **Level 1**          | **Level 1**          |
 
 #### Explanation from model: 
-The road shows extensive structural distress with large areas of rutting and edge breakup. Approximately 40-50% of the surface is affected by these issues, making the road significantly damaged and difficult to drive on.  
+##### The road shows extensive structural distress with large areas of rutting and edge breakup. Approximately 40-50% of the surface is affected by these issues, making the road significantly damaged and difficult to drive on.  
 ---
 
 ### Road Segment 2
