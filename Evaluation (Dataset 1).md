@@ -15,7 +15,7 @@
 | **Structural Distresses (%)**| 80.0                 | 80.0                 |
 | **Level (%)**                | **Level 1**          | **Level 1**          |
 
-#### Explanation from model:#### Surface defects about 50%, pavement cracks about 50%, structural distresses about 80%.  
+#### Explanation from model: The road shows extensive structural distress with large areas of rutting and edge breakup. Approximately 40-50% of the surface is affected by these issues, making the road significantly damaged and difficult to drive on.  
 ---
 
 ### Road Segment 2
