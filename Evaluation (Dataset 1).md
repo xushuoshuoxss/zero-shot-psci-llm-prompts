@@ -109,8 +109,8 @@
 |------------------------------|----------------------|----------------------|
 | **Surface Defects (%)**      | 50.0                 | 10.0                 |
 | **Pavement Defects (%)**     | 50.0                 | 20.0                 |
-| **Structural Distresses (%)**| 80.0                 | 10.0                 |
-| **Level (%)**                | **Level 4**          | **Level 6**          |
+| **Structural Distresses (%)**| 20.0                 | 10.0                 |
+| **Level (%)**                | **Level 4**          | **Level 4**          |
 
 #### Explanation from Model: 
 ##### The road shows moderate presence of pavement defects with visible cracking affecting less than 20% of the surface. There are no significant structural distresses like rutting or edge cracking. Estimated anomaly proportions: surface defects 10%, pavement defects 20%, structural distresses 10%.
@@ -679,5 +679,6 @@
 #### Explanation from Model: 
 ##### The road shows extensive surface defects with more than 30% of the surface affected by ravelling. There are no significant structural distresses like major cracks or rutting.
 ---
+
 
 
