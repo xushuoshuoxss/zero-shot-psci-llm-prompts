@@ -366,8 +366,8 @@
 
 | **Metric**                   | **Ground Truth**     | **Model Prediction** |
 |------------------------------|----------------------|----------------------|
-| **Surface Defects (%)**      | 5.0                  | 0.0                  |
-| **Pavement Defects (%)**     | 50.0                 | 0.0                  |
+| **Surface Defects (%)**      | 5.0                  | 20.0                 |
+| **Pavement Defects (%)**     | 50.0                 | 30.0                 |
 | **Structural Distresses (%)**| 40.0                 | 20.0                 |
 | **Level (%)**                | **Level 3**          | **Level 4**          |
 
@@ -679,6 +679,7 @@
 #### Explanation from Model: 
 ##### The road shows extensive surface defects with more than 30% of the surface affected by ravelling. There are no significant structural distresses like major cracks or rutting.
 ---
+
 
 
 
